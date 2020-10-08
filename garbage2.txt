@@ -1,0 +1,65 @@
+Printing Stack...
+(bggff  , Bdd    )->(Bdd    , acc    )->(acc    , Acc    )->(Acc    , jIJkL  )->(jIJkL  , Hijk   )->(Hijk   , ZZZZ   )->(ZZZZ   , xyyk   )->(xyyk   , XyZzz  )->(XyZzz  , zxcccc )->(zxcccc , AAbb   )->(AAbb   , aA     )->(aA     , BbAa   )->(BbAa   , CcaabB )->(CcaabB , cCaAbb )->(cCaAbb , AbCdEfG)->(AbCdEfG, dummyNode)->
+Printing Table...
+Table[1][32]: (dummyNode, bggff  )->(bggff  , Bdd    )->(Bdd    , acc    )->(acc    , Acc    )->(Acc    , jIJkL  )->(jIJkL  , Hijk   )->(Hijk   , ZZZZ   )->(ZZZZ   , xyyk   )->(xyyk   , XyZzz  )->(XyZzz  , AAbb   )->(AAbb   , aA     )->(aA     , BbAa   )->(BbAa   , NULL)->NULL
+Table[1][66]: (dummyNode, CcaabB )->(CcaabB , NULL)->NULL
+Table[1][98]: (dummyNode, cCaAbb )->(cCaAbb , NULL)->NULL
+Table[1][99]: (dummyNode, zxcccc )->(zxcccc , NULL)->NULL
+Table[1][102]: (dummyNode, AbCdEfG)->(AbCdEfG, NULL)->NULL
+Printing Table...
+Table[0][32]: (dummyNode, Bdd    )->(Bdd    , acc    )->(acc    , Acc    )->(Acc    , Hijk   )->(Hijk   , ZZZZ   )->(ZZZZ   , xyyk   )->(xyyk   , AAbb   )->(AAbb   , aA     )->(aA     , BbAa   )->(BbAa   , NULL)->NULL
+Table[0][69]: (dummyNode, AbCdEfG)->(AbCdEfG, NULL)->NULL
+Table[0][76]: (dummyNode, jIJkL  )->(jIJkL  , NULL)->NULL
+Table[0][98]: (dummyNode, CcaabB )->(CcaabB , cCaAbb )->(cCaAbb , NULL)->NULL
+Table[0][99]: (dummyNode, zxcccc )->(zxcccc , NULL)->NULL
+Table[0][102]: (dummyNode, bggff  )->(bggff  , NULL)->NULL
+Table[0][122]: (dummyNode, XyZzz  )->(XyZzz  , NULL)->NULL
+Printing Table...
+Table[1][32]: (dummyNode, Bdd    )->(Bdd    , acc    )->(acc    , Acc    )->(Acc    , aA     )->(aA     , NULL)->NULL
+Table[1][65]: (dummyNode, cCaAbb )->(cCaAbb , NULL)->NULL
+Table[1][90]: (dummyNode, ZZZZ   )->(ZZZZ   , NULL)->NULL
+Table[1][97]: (dummyNode, BbAa   )->(BbAa   , CcaabB )->(CcaabB , NULL)->NULL
+Table[1][98]: (dummyNode, AAbb   )->(AAbb   , NULL)->NULL
+Table[1][99]: (dummyNode, zxcccc )->(zxcccc , NULL)->NULL
+Table[1][100]: (dummyNode, AbCdEfG)->(AbCdEfG, NULL)->NULL
+Table[1][102]: (dummyNode, bggff  )->(bggff  , NULL)->NULL
+Table[1][107]: (dummyNode, Hijk   )->(Hijk   , xyyk   )->(xyyk   , jIJkL  )->(jIJkL  , NULL)->NULL
+Table[1][122]: (dummyNode, XyZzz  )->(XyZzz  , NULL)->NULL
+Printing Table...
+Table[0][32]: (dummyNode, aA     )->(aA     , NULL)->NULL
+Table[0][65]: (dummyNode, BbAa   )->(BbAa   , NULL)->NULL
+Table[0][67]: (dummyNode, AbCdEfG)->(AbCdEfG, NULL)->NULL
+Table[0][74]: (dummyNode, jIJkL  )->(jIJkL  , NULL)->NULL
+Table[0][90]: (dummyNode, ZZZZ   )->(ZZZZ   , XyZzz  )->(XyZzz  , NULL)->NULL
+Table[0][97]: (dummyNode, cCaAbb )->(cCaAbb , CcaabB )->(CcaabB , NULL)->NULL
+Table[0][98]: (dummyNode, AAbb   )->(AAbb   , NULL)->NULL
+Table[0][99]: (dummyNode, acc    )->(acc    , Acc    )->(Acc    , zxcccc )->(zxcccc , NULL)->NULL
+Table[0][100]: (dummyNode, Bdd    )->(Bdd    , NULL)->NULL
+Table[0][103]: (dummyNode, bggff  )->(bggff  , NULL)->NULL
+Table[0][106]: (dummyNode, Hijk   )->(Hijk   , NULL)->NULL
+Table[0][121]: (dummyNode, xyyk   )->(xyyk   , NULL)->NULL
+Printing Table...
+Table[1][65]: (dummyNode, aA     )->(aA     , AAbb   )->(AAbb   , NULL)->NULL
+Table[1][67]: (dummyNode, cCaAbb )->(cCaAbb , NULL)->NULL
+Table[1][73]: (dummyNode, jIJkL  )->(jIJkL  , NULL)->NULL
+Table[1][90]: (dummyNode, ZZZZ   )->(ZZZZ   , NULL)->NULL
+Table[1][98]: (dummyNode, BbAa   )->(BbAa   , AbCdEfG)->(AbCdEfG, NULL)->NULL
+Table[1][99]: (dummyNode, CcaabB )->(CcaabB , acc    )->(acc    , Acc    )->(Acc    , NULL)->NULL
+Table[1][100]: (dummyNode, Bdd    )->(Bdd    , NULL)->NULL
+Table[1][103]: (dummyNode, bggff  )->(bggff  , NULL)->NULL
+Table[1][105]: (dummyNode, Hijk   )->(Hijk   , NULL)->NULL
+Table[1][120]: (dummyNode, zxcccc )->(zxcccc , NULL)->NULL
+Table[1][121]: (dummyNode, XyZzz  )->(XyZzz  , xyyk   )->(xyyk   , NULL)->NULL
+Printing Table...
+Table[0][65]: (dummyNode, AAbb   )->(AAbb   , AbCdEfG)->(AbCdEfG, Acc    )->(Acc    , NULL)->NULL
+Table[0][66]: (dummyNode, BbAa   )->(BbAa   , Bdd    )->(Bdd    , NULL)->NULL
+Table[0][67]: (dummyNode, CcaabB )->(CcaabB , NULL)->NULL
+Table[0][72]: (dummyNode, Hijk   )->(Hijk   , NULL)->NULL
+Table[0][88]: (dummyNode, XyZzz  )->(XyZzz  , NULL)->NULL
+Table[0][90]: (dummyNode, ZZZZ   )->(ZZZZ   , NULL)->NULL
+Table[0][97]: (dummyNode, aA     )->(aA     , acc    )->(acc    , NULL)->NULL
+Table[0][98]: (dummyNode, bggff  )->(bggff  , NULL)->NULL
+Table[0][99]: (dummyNode, cCaAbb )->(cCaAbb , NULL)->NULL
+Table[0][106]: (dummyNode, jIJkL  )->(jIJkL  , NULL)->NULL
+Table[0][120]: (dummyNode, xyyk   )->(xyyk   , NULL)->NULL
+Table[0][122]: (dummyNode, zxcccc )->(zxcccc , NULL)->NULL
